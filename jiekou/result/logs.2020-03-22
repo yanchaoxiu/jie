@@ -1,0 +1,91 @@
+2018-12-04 10:33:41,528 - logs… - INFO - resultPathC:\Users\songlihui\PycharmProjects\dkxinterfaceTest\result\report.html
+2018-12-04 10:33:41,529 - logs… - INFO - caseListFileC:\Users\songlihui\PycharmProjects\dkxinterfaceTest\caselist.txt
+2018-12-04 10:33:41,529 - logs… - INFO - caseList[]
+2018-12-04 10:33:46,088 - logs… - INFO - send email ok!!!!
+2018-12-04 10:38:25,918 - logs… - INFO - resultPathC:\Users\songlihui\PycharmProjects\dkxinterfaceTest\result\report.html
+2018-12-04 10:38:25,918 - logs… - INFO - caseListFileC:\Users\songlihui\PycharmProjects\dkxinterfaceTest\caselist.txt
+2018-12-04 10:38:25,918 - logs… - INFO - caseList[]
+2018-12-04 10:38:29,230 - logs… - INFO - send email ok!!!!
+2018-12-04 10:38:44,242 - logs… - INFO - resultPathC:\Users\songlihui\PycharmProjects\dkxinterfaceTest\result\report.html
+2018-12-04 10:38:44,242 - logs… - INFO - caseListFileC:\Users\songlihui\PycharmProjects\dkxinterfaceTest\caselist.txt
+2018-12-04 10:38:44,242 - logs… - INFO - caseList[]
+2018-12-04 10:38:44,414 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2018-12-04 10:38:44,414 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2018-12-04 10:38:44,418 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2018-12-04 10:38:44,419 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2018-12-04 10:38:44,423 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2018-12-04 10:38:44,423 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2018-12-04 10:38:44,683 - logs… - INFO - send email ok!!!!
+2018-12-04 10:41:02,230 - logs… - INFO - resultPathC:\Users\songlihui\PycharmProjects\dkxinterfaceTest\result\report.html
+2018-12-04 10:41:02,231 - logs… - INFO - caseListFileC:\Users\songlihui\PycharmProjects\dkxinterfaceTest\caselist.txt
+2018-12-04 10:41:02,231 - logs… - INFO - caseList[]
+2018-12-04 10:41:02,400 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2018-12-04 10:41:02,404 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2018-12-04 10:41:02,408 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2018-12-04 10:41:02,470 - logs… - INFO - send email ok!!!!
+2020-03-21 14:57:53,049 - logs… - INFO - resultPathD:\ChromeCoreDownloads\submi_to-interfaceTest-develop\interfaceTest\result\report.html
+2020-03-21 14:57:53,068 - logs… - INFO - caseListFileD:\ChromeCoreDownloads\submi_to-interfaceTest-develop\interfaceTest\caselist.txt
+2020-03-21 14:57:53,068 - logs… - INFO - caseList[]
+2020-03-21 22:35:28,821 - logs… - INFO - resultPathD:\jie\jiekou\result\report.html
+2020-03-21 22:35:28,822 - logs… - INFO - caseListFileD:\jie\jiekou\caselist.txt
+2020-03-21 22:35:28,822 - logs… - INFO - caseList[]
+2020-03-21 22:45:39,210 - logs… - INFO - resultPathD:\jie\jiekou\result\report.html
+2020-03-21 22:45:39,210 - logs… - INFO - caseListFileD:\jie\jiekou\caselist.txt
+2020-03-21 22:45:39,210 - logs… - INFO - caseList[]
+2020-03-21 22:46:10,529 - logs… - INFO - resultPathD:\jie\jiekou\result\report.html
+2020-03-21 22:46:10,529 - logs… - INFO - caseListFileD:\jie\jiekou\caselist.txt
+2020-03-21 22:46:10,529 - logs… - INFO - caseList[]
+2020-03-21 22:52:00,507 - logs… - INFO - resultPathD:\jie\jiekou\result\report.html
+2020-03-21 22:52:00,512 - logs… - INFO - caseListFileD:\jie\jiekou\caselist.txt
+2020-03-21 22:52:00,512 - logs… - INFO - caseList[]
+2020-03-21 22:55:02,974 - logs… - INFO - resultPathD:\jie\jiekou\result\report.html
+2020-03-21 22:55:02,983 - logs… - INFO - caseListFileD:\jie\jiekou\caselist.txt
+2020-03-21 22:55:02,983 - logs… - INFO - caseList[]
+2020-03-21 22:57:13,391 - logs… - INFO - resultPathD:\jie\jiekou\result\report.html
+2020-03-21 22:57:13,392 - logs… - INFO - caseListFileD:\jie\jiekou\caselist.txt
+2020-03-21 22:57:13,392 - logs… - INFO - caseList[]
+2020-03-21 23:05:07,917 - logs… - INFO - resultPathD:\jie\jiekou\result\report.html
+2020-03-21 23:05:07,917 - logs… - INFO - caseListFileD:\jie\jiekou\caselist.txt
+2020-03-21 23:05:07,917 - logs… - INFO - caseList[]
+2020-03-21 23:06:28,417 - logs… - INFO - resultPathD:\jie\jiekou\result\report.html
+2020-03-21 23:06:28,418 - logs… - INFO - caseListFileD:\jie\jiekou\caselist.txt
+2020-03-21 23:06:28,418 - logs… - INFO - caseList[]
+2020-03-21 23:08:08,372 - logs… - INFO - resultPathD:\jie\jiekou\result\report.html
+2020-03-21 23:08:08,384 - logs… - INFO - caseListFileD:\jie\jiekou\caselist.txt
+2020-03-21 23:08:08,384 - logs… - INFO - caseList[]
+2020-03-21 23:11:55,142 - logs… - INFO - resultPathD:\jie\jiekou\result\report.html
+2020-03-21 23:11:55,148 - logs… - INFO - caseListFileD:\jie\jiekou\caselist.txt
+2020-03-21 23:11:55,153 - logs… - INFO - caseList[]
+2020-03-22 12:32:58,319 - logs… - INFO - resultPathD:\jie\jiekou\result\report.html
+2020-03-22 12:32:58,319 - logs… - INFO - caseListFileD:\jie\jiekou\caselist.txt
+2020-03-22 12:32:58,319 - logs… - INFO - caseList[]
+2020-03-22 12:35:16,315 - logs… - INFO - resultPathD:\jie\jiekou\result\report.html
+2020-03-22 12:35:16,315 - logs… - INFO - caseListFileD:\jie\jiekou\caselist.txt
+2020-03-22 12:35:16,315 - logs… - INFO - caseList[]
